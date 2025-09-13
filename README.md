@@ -1,3 +1,6 @@
-## Hello There im cxent
+## Hello There im cxent👋
 i love cats
- and i make code for people to use sometimes
+and i love to code 
+
+in here you will meet some of my project that went from private to public 
+feel free to add friend me on discord @cxent
