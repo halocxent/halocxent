@@ -1,6 +1,11 @@
 ## Hello There im cxent👋
 i love cats
 and i love to code 
+My code skill:
+- LuaU
+-Python
+-JavaScript
+-C(still learning)
 
 in here you will meet some of my project that went from private to public 
 
