@@ -40,9 +40,16 @@ EN:
 ![Mango](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## **GLOSSARY!!**
+## *GLORY TO BSD FAMILY!*
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd&logoColor=white)
-
-
-
+![ASM](https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge)
+![DragonflyBSD](https://img.shields.io/badge/DragonFly_BSD-CC0000?style=for-the-badge&logo=dragonflybsd&logoColor=white)
+![NetBSD](https://img.shields.io/badge/NetBSD-FF6600?style=for-the-badge&logo=netbsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
+![BSD](https://img.shields.io/badge/BSD-F2CA30?style=for-the-badge&logo=bsd&logoColor=black)
+![GhostBSD](https://img.shields.io/badge/GhostBSD-000000?style=for-the-badge)
+![TrueOS](https://img.shields.io/badge/TrueOS-000000?style=for-the-badge)
+![OpenServer](https://img.shields.io/badge/OpenServer-FF4500?style=for-the-badge)
+![HardenedBSD](https://img.shields.io/badge/HardenedBSD-4B0082?style=for-the-badge)
+![MidnightBSD](https://img.shields.io/badge/MidnightBSD-000080?style=for-the-badge)
