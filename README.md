@@ -1,16 +1,5 @@
-## Hello There im cxent👋
-i love cats
-and i love to code 
-My code skill:
-- LuaU
--Python
--JavaScript
--C(still learning)
+EN:
+**Hello, Im cxent**
 
-in here you will meet some of my project that went from private to public 
-
-feel free to add friend me on discord [@cxent](https://discord.com/users/969877800746123284)
-
-Things that i use:
-Vercel, Netlify, postgreSQL(mostly supabase), Express/Node-Fetch, Firebase
-
+Here is my skill:
+![luau](https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
