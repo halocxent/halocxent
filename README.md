@@ -41,7 +41,8 @@ EN:
 
 
 **GLOSSARY!!*
-![FreeBSD](ttps://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd&logoColor=white)
+
+![FreeBSD](https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd&logoColor=white)
 
 
 
