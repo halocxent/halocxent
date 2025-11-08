@@ -10,6 +10,7 @@ EN:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+Note: I am bad at Cpp and rarely use it
 
 ## *Frameworks that i use:*
 
