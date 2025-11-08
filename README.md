@@ -40,7 +40,7 @@ EN:
 ![Mango](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-**GLOSSARY!!*
+## **GLOSSARY!!**
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd&logoColor=white)
 
